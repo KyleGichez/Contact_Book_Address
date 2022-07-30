@@ -25,7 +25,7 @@ $ python3 run.py
 ````
 
 ### Project Implementation
-This software project has utilized the use of classes in python to manipulate python methods & objects and build a program to store all your personal accounts and passwords safe.
+This software project has utilized the use of classes in python to manipulate python methods & objects and build a program to store all your personal contacts and passwords safe.
 
 ### License
 This project is licensed under MIT License.
