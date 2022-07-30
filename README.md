@@ -14,7 +14,7 @@ This is a software program built in python3. It shows you how to use classes, an
 ### Installation
 To install this flask application, clone this repository into your local working environment and open it in your favorite IDE.
 ````clone repository
-git clone  https://github.com/KyleGichez/Password_Locker.git
+git clone  https://github.com/KyleGichez/Contact_Book_Address.git
 ````
 Also, you can choose to download this project to your local working environment as a zip folder when you click the green code button in this repository.
 
